@@ -1,1 +1,1 @@
-0. My name is Betty
+(1) switches current user to betty.
